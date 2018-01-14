@@ -1,1 +1,2 @@
-# c-learning
+some notes
+some cpps
